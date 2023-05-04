@@ -19,8 +19,14 @@ target/
 *.iml
 *.ipr
 *.txt
-bootstrap.yml
-application.properties
+pom.xml
+/src/main/Docker/
+/src/main/resources/application.properties
+/src/main/resources/application.yml
+/src/main/resources/banner.txt
+/src/main/resources/bootstrap.yml
+ToDo.txt
+info.txt
 
 ### NetBeans ###
 /nbproject/private/
