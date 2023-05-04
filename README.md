@@ -9,4 +9,4 @@
 ### APP Solution Service
 
 
-![Image of Arch](https://github.com/Halsyon/Soluttion-Service/blob/master/image/Screenshot_Eureka.jpg)
+![Image of Arch](https://github.com/Halsyon/Soluttion-Service/blob/master/image/Screenshot_Eureka.png)
